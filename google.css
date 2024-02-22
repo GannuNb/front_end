@@ -1,0 +1,247 @@
+
+.search {
+    position: absolute;
+    top: 478px;
+    left: 346px;
+    border-radius: 33px;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(0, 0, 0, 0.58);
+    box-sizing: border-box;
+    width: 748px;
+    height: 68px;
+  }
+  .image-1-icon {
+    position: absolute;
+    top: 503px;
+    left: 375px;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+  .search-google-or {
+    border: 0;
+    outline: 0;
+    font-family: var(--font-inter);
+    font-size: 20px;
+    background-color: transparent;
+    position: absolute;
+    top: 500px;
+    left: 420px;
+    color: var(--color-black);
+    text-align: left;
+    display: inline-block;
+    width: 500px;
+    height: 23px;
+  }
+  .image-5-icon {
+    position: absolute;
+    top: 497px;
+    left: 1024px;
+    width: 30px;
+    height: 29.2px;
+    object-fit: cover;
+  }
+  .google-offered-in {
+    position: relative;
+    color: var(--color-black);
+    white-space: pre-wrap;
+  }
+  
+  .div1 {
+    color: var(--color-darkblue);
+  }
+  .google-offered-in-hindi-parent {
+    position: relative;
+    top: 660px;
+    left: 375px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 2px;
+    gap: 5px 11px;
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    color: var(--color-mediumblue);
+  }
+  .image-6-icon {
+    position: absolute;
+    top: 286px;
+    left: 519px;
+    width: 400px;
+    height: 136px;
+    object-fit: cover;
+  }
+  .button2,
+  .gmail,
+  .images {
+    position: absolute;
+    top: 54.5px;
+    left: 1035px;
+  }
+  .button2,
+  .images {
+    left: 1106px;
+  }
+  .button2 {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    top: 38px;
+    left: 1181px;
+    width: 55px;
+    height: 55px;
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+  .google-child {
+    position: absolute;
+    top: 41px;
+    left: 1266px;
+    border-radius: 50%;
+    width: 50px;
+    height: 49px;
+    object-fit: cover;
+  }
+  .maang-search-parent {
+    position: absolute;
+    top: 585px;
+    left: 489px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0 49px;
+    font-size: var(--font-size-5xl);
+  }
+  .google {
+    width: 1350px;
+    position: relative;
+    background-image: url('/home/gannu/Desktop/react/google/googl/images/desktop.jpg');
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+
+  }
+  
+    
+  .dropdown {
+    position: absolute;
+    top: 100px;
+    left: 950px;
+    border-radius: 30px;
+    background-color:antiquewhite;
+    box-shadow: 0 4px 4px rgba(214, 202, 39, 0.25);
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    width: 355px;
+    height: 450px;
+    overflow: scroll;
+    display: flex;
+    scroll-margin-block-start: 1px;
+  }
+
+  .ellipse-icon{
+    border-radius: 50%;
+    width: 71px;
+    height: 71px;
+    object-fit: cover;
+    margin: 20px;
+
+  }
+  .text1{
+    position: absolute;
+    top: 100px;
+    left: 32px;
+   
+  }
+  .text2{
+    position: absolute;
+    top: 100px;
+    left: 148px;
+   
+  }
+  .text3{
+    position: absolute;
+    top: 100px;
+    left: 255px;
+   
+  } 
+  .text4{
+    position: absolute;
+    top: 218px;
+    left: 32px;
+   
+  }
+  .text5{
+    position: absolute;
+    top: 218px;
+    left: 148px;
+   
+  }
+  .text6{
+    position: absolute;
+    top: 218px;
+    left: 255px;
+   
+  } 
+  .text7{
+    position: absolute;
+    top: 338px;
+    left:32px;
+   
+  }
+  .text8{
+    position: absolute;
+    top: 338px;
+    left:148px
+  }
+  .text9{
+    position: absolute;
+    top: 338px;
+    left: 255px;
+   
+  } 
+  .text10{
+    position: absolute;
+    top: 450px;
+    left:32px;
+   
+  }
+  .text11{
+    position: absolute;
+    top: 450px;
+    left:148px
+  }
+  .text12{
+    position: absolute;
+    top: 450px;
+    left: 255px;
+   
+  } 
+  .text13{
+    position: absolute;
+    top: 560px;
+    left:32px;
+   
+  }
+  .text14{
+    position: absolute;
+    top: 560px;
+    left:148px
+  }
+  .text15{
+    position: absolute;
+    top: 560px;
+    left: 255px;
+   
+  } 
+  
+  
